@@ -1,0 +1,59 @@
+/* Ensure padding/border don't affect element width */
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+/* Remove default margin and padding from everything */
+* {
+  margin: 0;
+  padding: 0;
+}
+
+/* Improve media element handling */
+img, picture, video, canvas, svg {
+  display: block;
+  max-width: 100%;
+}
+
+/******************************************/
+/******************************************/
+/******************************************/
+
+:root {
+  --sage-main: #7A9A82; 
+  --sage-hover: #63806A;
+  --sage-light: #F1F5F2;
+  --sage-dark: #2F3E33;
+}
+
+/* Custom utility overrides */
+.bg-sage-light {
+    background-color: var(--sage-light) !important;
+}
+
+.bg-sage-dark {
+    background-color: var(--sage-dark) !important;
+}
+
+.text-sage {
+    color: var(--sage-main) !important;
+}
+
+/* Custom Sage Button to match Bootstrap's style */
+.btn-sage {
+    background-color: var(--sage-main) !important;
+    color: #ffffff !important;
+    border: 1px solid var(--sage-main) !important;
+    transition: all 0.2s ease-in-out;
+}
+
+.btn-sage:hover {
+    background-color: var(--sage-hover) !important;
+    border-color: var(--sage-hover) !important;
+}
+
+/* Subtle link hover styling */
+.hover-link-sage:hover {
+    color: var(--sage-main) !important;
+    text-decoration: underline !important;
+}

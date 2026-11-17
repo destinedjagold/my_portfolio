@@ -1,0 +1,18 @@
+[
+  {
+    "title": "Digital Art",
+    "description": "A childhood dream of one day being able to draw good art, finally achieved... digitally. I am using a Huion drawing tablet that I borrowed from my youngest brother. I don't draw much these days though...",
+    "tech_stack": ["Digital Art"],
+    "link": "https://www.pixiv.net/en/users/8797024",
+    "image": "digital_art.png",
+    "image_pos": -30
+  },
+  {
+    "title": "Game Making in Godot",
+    "description": "Another childhood dream of one day being able to create my own video games. I used Godot and spent most of 2025 trying to learn it, with the help of Gemini AI if ever I get stuck in either code or in Godot's UI and functions. I was surprised to learn that its code structure is similar to Python. Unfortunately I got a little too busy with real life to continue messing around with Godot. The link below will lead you to the itch.io page of my 'vampire survivor' game, the result of my first attempt at Godot.",
+    "tech_stack": ["GDScript", "Godot", "Game Dev"],
+    "link": "https://destinedjagold.itch.io/test-shooter-game",
+    "image": "godot_game_1.png",
+    "image_pos": -70
+  }
+]

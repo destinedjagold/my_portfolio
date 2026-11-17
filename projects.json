@@ -1,0 +1,53 @@
+[
+  {
+    "title": "Custom MVC Application Maintenance",
+    "page_title": "P-Supply",
+    "description": "Providing long-term backend maintenance and system stability for a high-traffic platform since late 2018. Tasked with managing a complex legacy environment that integrates Composer for dependency management alongside a custom, proprietary Model-View-Controller (MVC) framework. Proven track record of navigating, troubleshooting, and keeping undocumented codebases running smoothly over several years.",
+    "tech_stack": ["PHP", "HTML", "CSS", "Javascript"],
+    "link": "https://www.p-supply.co.jp/",
+    "image": "psup.png"
+  },
+  {
+    "title": "Wordpress Custom Admin Feature Engineering",
+    "page_title": "P-Supply Ossur",
+    "description": "Developed a custom 'What's New' (新着情報) feature from scratch for the site's main landing page. Engineered a dedicated WordPress administration interface tailored to the client's content management workflow, allowing for seamless updates. Collaboratively maintain the platform with a development team, ensuring consistent uptime and routine content updates.",
+    "tech_stack": ["PHP", "Wordpress", "HTML", "CSS", "Javascript"],
+    "link": "https://www.p-supply.co.jp/ossur/catalog/",
+    "image": "ossur.png"
+  },
+  {
+    "title": "Legacy WordPress Core & Infrastructure Migration",
+    "page_title": "TO-IN",
+    "description": "Led the technical migration and modern upgrading of a legacy WordPress platform. Collaborated with a development team to conduct full-site quality assurance audits, update outdated theme architectures, and resolve critical bugs—including fixing broken Custom Post Type (CPT) archive filtering layouts caused by core version shifts.",
+    "tech_stack": ["PHP", "Wordpress", "HTML", "CSS"],
+    "link": "https://to-in.com/",
+    "image": "toin.png"
+  },
+  {
+    "title": "Technical Oversight & Peer Code Review",
+    "page_title": "Kiri",
+    "description_original": "In this project, I was tasked to be the one who will check the code of the developer updating this page.",
+    "description": "Tasked with technical oversight for this project, serving as the code reviewer for developers handling the platform's updates. My role focused on analyzing code changes, troubleshooting integration risks, and validating backend logic to ensure a seamless, error-free deployment.",
+    "tech_stack": ["PHP", "HTML", "CSS", "Javascript"],
+    "link": "https://bel-japon.com/kiri/product/fruitsblend/",
+    "image": "fruitsblend.png"
+  },
+  {
+    "title": "High-Fidelity Frontend & JavaScript Replication",
+    "page_title": "Ekispert",
+    "description_original": "For this project, the main focus was making sure the front-end worked exactly the way it was after migrating to Wordpress. I recall this project had a lot of focus on Javascript. There were some features that couldn't be replicated exactly due to the limitations Wordpress had.",
+    "description": "Heavily focused on high-fidelity frontend replication and custom JavaScript engineering during a legacy-to-WordPress platform migration. Tasked with ensuring critical client-side features and interactive behaviors remained completely identical across architectures. Overcame native CMS constraints by architecting custom, decoupled JavaScript solutions to successfully preserve advanced user-experience elements that standard WordPress templates could not natively support.",
+    "tech_stack": ["PHP", "Wordpress", "HTML", "CSS", "Javascript"],
+    "link": "https://ekispert.jp/",
+    "image": "ekispert.png"
+  },
+  {
+    "title": "Accelerated Legacy Platform Integration",
+    "page_title": "Japan Association for Working Holiday Makers",
+    "description_original": "This was the very first Wordpress project I ever handled fresh out of college. Because of a tight deadline, the code I wrote for this project was horribly written. As long as it worked, as the project manager told me. See those 'text icons' on the upper left of the images? The client had a working code for that from their old site, but because I was new, I could not figure out how to implement it in the new server... So I decided to brute-force it. I still cringe when I think about how I implemented that...",
+    "description": "My foundational WordPress project, focused on rapid feature deployment and legacy system migration under a strict launch timeline. Handled the frontend implementation of dynamic content overlays ('text icons') on media elements by adapting legacy components to a modernized server environment. This project served as a core milestone in developing efficient, high-pressure troubleshooting workflows and adaptive coding practices.",
+    "tech_stack": ["PHP", "Wordpress", "HTML", "CSS", "Javascript"],
+    "link": "https://www.jawhm.or.jp/blog/",
+    "image": "jawhm.png"
+  }
+]
